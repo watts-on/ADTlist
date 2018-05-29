@@ -1,2 +1,2 @@
-# ADTlist
+# Wlist
 List implementation exercise
